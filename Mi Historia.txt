@@ -1,2 +1,2 @@
 Hola mi nombre es Juanito
-Mi edad son 35 anios
+Este ejercicio forma parte del curso de Git y Github 
