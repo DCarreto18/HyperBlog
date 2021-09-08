@@ -1,2 +1,3 @@
 Hola mi nombre es Juanito
 Este ejercicio forma parte del curso de Git y Github 
+Estamos sacando mas texto de la manga
